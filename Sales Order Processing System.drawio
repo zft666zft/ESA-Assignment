@@ -18,7 +18,7 @@
         <mxCell id="fXp9aWVOsmLKfyarqgo--45" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" parent="1" vertex="1">
           <mxGeometry x="190" y="37.5" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="fXp9aWVOsmLKfyarqgo--47" value="Receive Order" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="fXp9aWVOsmLKfyarqgo--45" vertex="1">
+        <mxCell id="fXp9aWVOsmLKfyarqgo--47" value="Receive order" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="fXp9aWVOsmLKfyarqgo--45" vertex="1">
           <mxGeometry x="30" y="12.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fXp9aWVOsmLKfyarqgo--46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="fXp9aWVOsmLKfyarqgo--42" target="fXp9aWVOsmLKfyarqgo--45" edge="1">
@@ -39,8 +39,8 @@
         <mxCell id="fXp9aWVOsmLKfyarqgo--49" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" parent="1" vertex="1">
           <mxGeometry x="369" y="37.5" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="fXp9aWVOsmLKfyarqgo--50" value="Receive Completed Meals" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="fXp9aWVOsmLKfyarqgo--49" vertex="1">
-          <mxGeometry x="7.5" y="12.5" width="105" height="30" as="geometry" />
+        <mxCell id="fXp9aWVOsmLKfyarqgo--50" value="Record flight details" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="fXp9aWVOsmLKfyarqgo--49" vertex="1">
+          <mxGeometry x="15" y="12.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fXp9aWVOsmLKfyarqgo--53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="fXp9aWVOsmLKfyarqgo--49" target="fXp9aWVOsmLKfyarqgo--48" edge="1">
           <mxGeometry relative="1" as="geometry" />

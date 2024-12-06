@@ -48,7 +48,7 @@
         <mxCell id="ZxYCyNb9GHyZLmoiOR7f-46" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="1">
           <mxGeometry x="680" y="250" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZxYCyNb9GHyZLmoiOR7f-48" value="Order more stock&amp;nbsp;with a longer shelf life" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZxYCyNb9GHyZLmoiOR7f-46">
+        <mxCell id="ZxYCyNb9GHyZLmoiOR7f-48" value="Order more stock&amp;nbsp;with a long shelf life" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZxYCyNb9GHyZLmoiOR7f-46">
           <mxGeometry x="2.5" y="18.18" width="115" height="43.64" as="geometry" />
         </mxCell>
         <mxCell id="ZxYCyNb9GHyZLmoiOR7f-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.346;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZxYCyNb9GHyZLmoiOR7f-56" target="ZxYCyNb9GHyZLmoiOR7f-46">

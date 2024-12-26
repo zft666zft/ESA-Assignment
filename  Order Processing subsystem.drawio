@@ -27,7 +27,7 @@
         <mxCell id="YpoTtZVR7BKUe61PlGft-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YpoTtZVR7BKUe61PlGft-48" target="YpoTtZVR7BKUe61PlGft-91" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YpoTtZVR7BKUe61PlGft-48" value="Analyze Order Requirements" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YpoTtZVR7BKUe61PlGft-48" value="Analyze order requirements" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="431" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YpoTtZVR7BKUe61PlGft-50" value="Send to Production System" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -39,13 +39,13 @@
         <mxCell id="YpoTtZVR7BKUe61PlGft-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YpoTtZVR7BKUe61PlGft-60" target="YpoTtZVR7BKUe61PlGft-99" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YpoTtZVR7BKUe61PlGft-60" value="Ensure Accuracy" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YpoTtZVR7BKUe61PlGft-60" value="Ensure accuracy" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="869" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YpoTtZVR7BKUe61PlGft-62" value="Validate Order" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YpoTtZVR7BKUe61PlGft-62" value="Validate order" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="764" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YpoTtZVR7BKUe61PlGft-63" value="Request Correction" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YpoTtZVR7BKUe61PlGft-63" value="Request correction" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="980" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YpoTtZVR7BKUe61PlGft-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YpoTtZVR7BKUe61PlGft-71" target="YpoTtZVR7BKUe61PlGft-35" edge="1">

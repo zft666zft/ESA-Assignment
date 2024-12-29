@@ -65,7 +65,7 @@
           <mxGeometry x="650" y="380" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wpcjDuDs54A-yuHA8lGh-57" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Send Orders&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="120" width="60" height="30" as="geometry" />
+          <mxGeometry x="320" y="116" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wpcjDuDs54A-yuHA8lGh-58" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Send Schedule&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="116" width="60" height="30" as="geometry" />

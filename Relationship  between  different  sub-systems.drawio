@@ -11,7 +11,7 @@
           <mxGeometry x="400" y="100" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wpcjDuDs54A-yuHA8lGh-45" value="Delivery System" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="700" y="100" width="200" height="100" as="geometry" />
+          <mxGeometry x="740" y="100" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wpcjDuDs54A-yuHA8lGh-46" value="Inventory Control System" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="250" y="300" width="200" height="100" as="geometry" />
@@ -64,20 +64,20 @@
         <mxCell id="wpcjDuDs54A-yuHA8lGh-56" value="Procurement" style="text;html=1;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="650" y="380" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wpcjDuDs54A-yuHA8lGh-57" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Send Orders&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="116" width="60" height="30" as="geometry" />
+        <mxCell id="wpcjDuDs54A-yuHA8lGh-62" value="&lt;span style=&quot;font-size: 11px; text-align: center; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Send Orders&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="112" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wpcjDuDs54A-yuHA8lGh-58" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Send Schedule&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="116" width="60" height="30" as="geometry" />
+        <mxCell id="wpcjDuDs54A-yuHA8lGh-63" value="&lt;span style=&quot;font-size: 11px; text-align: center; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Send Schedule&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="112" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wpcjDuDs54A-yuHA8lGh-59" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Update Stock&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="220" width="60" height="30" as="geometry" />
+        <mxCell id="wpcjDuDs54A-yuHA8lGh-64" value="&lt;span style=&quot;font-size: 11px; text-align: center; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Update Stock&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="220" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wpcjDuDs54A-yuHA8lGh-60" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Request Items&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="320" width="60" height="30" as="geometry" />
+        <mxCell id="wpcjDuDs54A-yuHA8lGh-66" value="&lt;span style=&quot;font-size: 11px; text-align: center; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Update Orders&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="450" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wpcjDuDs54A-yuHA8lGh-61" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Update Orders&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="450" width="60" height="30" as="geometry" />
+        <mxCell id="wpcjDuDs54A-yuHA8lGh-65" value="&lt;span style=&quot;font-size: 11px; text-align: center; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Request Items&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="320" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

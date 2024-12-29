@@ -17,7 +17,7 @@
           <mxGeometry x="250" y="300" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wpcjDuDs54A-yuHA8lGh-47" value="Purchase Order Processing System" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="550" y="300" width="210" height="100" as="geometry" />
+          <mxGeometry x="580" y="300" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wpcjDuDs54A-yuHA8lGh-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#82b366;" edge="1" parent="1" source="wpcjDuDs54A-yuHA8lGh-43" target="wpcjDuDs54A-yuHA8lGh-44">
           <mxGeometry y="20" relative="1" as="geometry">
@@ -43,10 +43,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wpcjDuDs54A-yuHA8lGh-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#82b366;" edge="1" parent="1" source="wpcjDuDs54A-yuHA8lGh-47" target="wpcjDuDs54A-yuHA8lGh-43">
+        <mxCell id="wpcjDuDs54A-yuHA8lGh-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#82b366;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wpcjDuDs54A-yuHA8lGh-56" target="wpcjDuDs54A-yuHA8lGh-43">
           <mxGeometry x="-0.1852" y="60" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="650" y="480" />
+              <mxPoint x="700" y="480" />
               <mxPoint x="200" y="480" />
             </Array>
             <mxPoint as="offset" />
